@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# env files
+.env
+backend/.env
+
+# logs
+*.log
+
+# build
+dist
+
+# mac
+.DS_Store
