@@ -1,3 +1,8 @@
+<img width="597" h<img width="1031" height="696" alt="Screenshot 2026-06-09 at 10 54 57 PM" src="https://github.com/user-attachments/assets/8a39a5de-80cf-47f9-a53c-91afe950d2a6" />
+<img width="711" height="714" alt="Screenshot 2026-06-09 at 10 53 53 PM" src="https://github.com/user-attachments/assets/2cbe8d28-bde7-43c3-a79c-8f1d792694d5" />
+<img width="956" height="623" alt="Screenshot 2026-06-09 at 10 54 27 PM" src="https://github.com/user-attachments/assets/309d264f-4d2f-45b1-b37c-7fa42f7595dd" />
+<img width="702" height="649" alt="Screenshot 2026-06-09 at 10 53 33 PM" src="https://github.com/user-attachments/assets/72661865-cfd0-47b3-a2f9-8edbe53177f5" />
+eight="566" alt="Screenshot 2026-06-09 at 10 55 16 PM" src="https://github.com/user-attachments/assets/4891c41f-3491-48b6-aea0-1d53137376ca" />
 # Task Management System
 
 A full-stack Task Management application built with **Node.js, Express.js, MongoDB Atlas, React.js, JWT Authentication, Role-Based Access Control (RBAC), and Docker**.
